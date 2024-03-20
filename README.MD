@@ -1,5 +1,5 @@
 Training elements usign mnist
-````Python
+````python
 import tensorflow as tf
 import matplotlib
 import pandas as pd
