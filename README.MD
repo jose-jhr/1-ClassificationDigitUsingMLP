@@ -156,7 +156,7 @@ plt.show()
 ````
 
 Class Model load
-````Python
+````python
 import tensorflow as tf
 import matplotlib
 import pandas as pd
